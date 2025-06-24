@@ -1,23 +1,26 @@
 # 🚀 Small Data Lab
 
 🧠 **Um ecossistema de dados. Um espaço de experimentação.**  
-💡 **Projetos, análises e storytelling que estruturam e aceleram minha transição de carreira em dados.**
+💡 **Projetos, análises e storytelling que desenvolvem competências e constroem inteligência aplicada com dados**
 
 ---
 
 ## 🧠 Sobre o Small Data Lab
 
-O **Small Data Lab (SDL)** é um laboratório pessoal de dados criado para estruturar, documentar e acelerar minha transição de carreira da engenharia para a ciência de dados.
+O **Small Data Lab (SDL)** é um laboratório pessoal de dados — um **ecossistema de desenvolvimento, prática e inteligência aplicada com dados.**  
 
-O SDL nasceu com um propósito muito claro: transformar estudo em prática, transformar prática em projeto, e transformar projeto em autoridade técnica.
+O SDL nasceu com um propósito muito claro:  
+→ **Transformar estudo em prática.**  
+→ **Transformar prática em projeto.**  
+→ **E transformar projeto em desenvolvimento profissional, construção de autoridade e geração de valor com dados.**  
 
-Aqui você vai encontrar:
-- 📈 Projetos aplicados em dados.
-- 🔍 Análises do mercado de trabalho na área de dados.
-- 🧠 Desenvolvimento contínuo de competências analíticas.
-- 💡 Storytelling e documentação de todo o processo de aprendizagem, crescimento e transição.
+Aqui você vai encontrar:  
+- 📈 **Projetos aplicados em dados.**  
+- 🔍 **Análises investigativas do mercado de trabalho em dados.**  
+- 🧠 **Desenvolvimento contínuo de competências técnicas, analíticas e estratégicas.**  
+- 💡 **Storytelling, documentação e inteligência aplicada em dados, tecnologia e mercado.**  
 
-O SDL é mais do que um portfólio — é um **ecossistema vivo, público e intencional**, que conecta teoria, prática e mercado.
+O SDL é mais do que um portfólio — é um **ecossistema vivo, público e intencional**, que conecta **teoria, prática, dados e desenvolvimento profissional.**
 
 ---
 
