@@ -1,80 +1,73 @@
-# 🚀 Small Data Lab
+# 🚀 Small Data Lab  
+🧠 Um ecossistema de dados. Um espaço de experimentação.
 
-🧠 **Um ecossistema de dados. Um espaço de experimentação.**  
-💡 **Projetos, análises e storytelling que desenvolvem competências e constroem inteligência aplicada com dados**
-
----
-
-## 🧠 Sobre o Small Data Lab
-
-O **Small Data Lab (SDL)** é um laboratório pessoal de dados — um **ecossistema de desenvolvimento, prática e inteligência aplicada com dados.**  
-
-O SDL nasceu com um propósito muito claro:  
-→ **Transformar estudo em prática.**  
-→ **Transformar prática em projeto.**  
-→ **E transformar projeto em desenvolvimento profissional, construção de autoridade e geração de valor com dados.**  
-
-Aqui você vai encontrar:  
-- 📈 **Projetos aplicados em dados.**  
-- 🔍 **Análises investigativas do mercado de trabalho em dados.**  
-- 🧠 **Desenvolvimento contínuo de competências técnicas, analíticas e estratégicas.**  
-- 💡 **Storytelling, documentação e inteligência aplicada em dados, tecnologia e mercado.**  
-
-O SDL é mais do que um portfólio — é um **ecossistema vivo, público e intencional**, que conecta **teoria, prática, dados e desenvolvimento profissional.**
+💡 Projetos, análises e storytelling que desenvolvem competências e constroem inteligência aplicada com dados.
 
 ---
 
-## 👨‍💻 Sobre o Autor
+## 🧠 Sobre o Small Data Lab  
 
-Sou **Jhonathan Domingues**, formado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Big Data e Ciência de Dados pela PUC Minas**.
+O Small Data Lab (SDL) é um laboratório pessoal de dados — um ecossistema de prática, análise e desenvolvimento técnico.
 
-Atuei por **15 anos no setor industrial**, sempre conectado com tecnologia, dados, inovação e processos. Minha trajetória profissional foi construída na interseção entre **tecnologia, operação e análise técnica**, com uma forte base em raciocínio lógico, resolução de problemas e visão sistêmica.
+Criado como parte da minha transição da engenharia para a ciência de dados, ele conecta teoria, prática e projetos reais.  
+É onde estudo vira solução, solução vira projeto e projeto gera desenvolvimento profissional.
 
-Atualmente, estou em processo de **transição de carreira para a área de dados**, unindo minha experiência prática na indústria à modelagem, análise e construção de soluções baseadas em dados.
+Aqui você encontra:
 
-O **Small Data Lab** é o espaço onde documento essa jornada — de forma pública, organizada e orientada a projetos reais.
+- 📈 Projetos aplicados de ciência de dados e machine learning  
+- 🔍 Análises investigativas sobre o mercado de trabalho em dados  
+- 🧠 Desenvolvimento de competências técnicas, analíticas e estratégicas  
+- 💬 Storytelling técnico e inteligência aplicada com dados
 
----
-
-## 🚀 Projetos em Destaque
-
-- 🕵️‍♂️ **[Code Against Fraud](https://github.com/smalldatalabbr/codeagainstfraud)**  
-Pipeline de detecção de fraudes aplicada a dados bancários. Demonstração prática de ciência de dados, machine learning e visão de negócio, com foco em clareza, interpretabilidade e robustez.  
-
-🔗 **Site:** [smalldatalab.com.br/codeagainstfraud](https://smalldatalab.com.br/codeagainstfraud)  
+Mais do que um portfólio, o SDL é um espaço vivo de aprendizado público, construído com propósito e critério.
 
 ---
 
-- 📊 **[JobData Insight](https://github.com/smalldatalabbr/jobdatainsight)**  
-Projeto de análise do mercado de trabalho na área de dados. Coleta, estrutura e analisa descrições de vagas para gerar insights sobre padrões, inconsistências e exigências do mercado.
+## 👨‍💻 Sobre o Autor  
 
-Além das análises exploratórias e do desenvolvimento de ferramentas, este projeto também é responsável pela produção dos relatórios públicos chamados **Data Job Signals**, que documentam os principais sinais, padrões e inconsistências mapeadas no mercado de dados.
+Sou Jhonathan Domingues — formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Big Data & Ciência de Dados (PUC Minas).
 
-🔗 **Site:** [smalldatalab.com.br/jobdatainsight](https://smalldatalab.com.br/jobdatainsight)  
-- 🔗 **Acesso aos relatórios publicados:** [smalldatalab.com.br/relatorios](https://smalldatalab.com.br/relatorios)  
-- 📁 **Notebooks dos relatórios no GitHub:** [Acessar pasta notebooks](https://github.com/smalldatalabbr/jobdatainsight/blob/main/notebooks)  
+Trabalhei por 15 anos no setor industrial, na interseção entre tecnologia, operação e análise técnica.  
+Hoje, estou em transição para a área de dados, integrando minha vivência prática à construção de soluções baseadas em dados.
 
----
-
-## ⚠️ Disclaimer
-
-Todos os projetos aqui documentados têm caráter de **demonstração técnica, desenvolvimento de competências e aprendizado prático.**  
-
-Os dados utilizados são públicos, sintéticos ou anonimizados e não representam instituições, empresas ou organizações específicas.  
-
-O conteúdo apresentado não possui qualquer vínculo com empresas, consultorias ou entidades do mercado financeiro, nem se destina a uso comercial.
+O Small Data Lab é onde documento essa jornada de forma transparente, prática e orientada a projetos.
 
 ---
 
-## 📜 Licença
+## 🚀 Projetos em Destaque  
 
-Este repositório e seus conteúdos estão licenciados sob a licença **MIT License** — veja o arquivo [LICENSE](./LICENSE) para mais informações.
+### 🕵️‍♂️ Code Against Fraud  
+Pipeline completo de detecção de fraudes bancárias.  
+Foco em EDA, engenharia de atributos, modelagem supervisionada e boas práticas de MLOps.  
+Um projeto-vitrine que combina robustez técnica, visão de negócio e clareza na comunicação.
+
+🔗 [Site do Projeto](https://smalldatalab.com.br/codeagainstfraud)
+
+---
+
+### 📊 JobData Insight  
+Ferramenta de análise crítica sobre o mercado de trabalho em dados.  
+Coleta, estrutura e analisa descrições de vagas para orientar decisões de carreira e mapear padrões recorrentes.  
+Hoje atua como ferramenta de uso interno do SDL — os relatórios só são publicados quando há insights realmente relevantes.
+
+🔗 [Site do Projeto](https://smalldatalab.com.br/jobdatainsight)  
+🔗 [Relatórios publicados](https://smalldatalab.com.br/relatorios)  
+📁 [Notebooks no GitHub](https://github.com/seu-usuario/sdl/notebooks) <!-- atualize com o link real -->
 
 ---
 
-## 🔗 Links Importantes
-
-- 🌐 **Site:** [smalldatalab.com.br](https://smalldatalab.com.br)  
-- 👔 **LinkedIn:** [Jhonathan Domingues](https://www.linkedin.com/in/jhonathandomingues)  
+## ⚠️ Disclaimer  
+Todos os projetos têm caráter educacional e demonstrativo.  
+Os dados utilizados são públicos, sintéticos ou anonimizados e não representam instituições específicas.  
+Não há vínculo com empresas ou uso comercial envolvido.
 
 ---
+
+## 📜 Licença  
+Este repositório está licenciado sob a MIT License — veja o arquivo LICENSE para mais detalhes.
+
+---
+
+## 🔗 Links  
+🌐 [Site](https://smalldatalab.com.br)  
+👔 [LinkedIn – Jhonathan Domingues](https://www.linkedin.com/in/jhonathandomingues)
