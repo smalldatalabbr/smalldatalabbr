@@ -30,12 +30,12 @@ Cada POC documenta claramente o problema, a abordagem, a solução e os resultad
 
 ## Onde me encontrar
 
-[🌐 Portfólio](https://jhonathan.me)
-[💼 LinkedIn](https://www.linkedin.com/in/jhonathandomingues)
+[![Website](https://img.shields.io/badge/Website-Portfolio-black?logo=googlechrome&logoColor=white)](https://jhonathan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathandomingues)
+[![Email](https://img.shields.io/badge/Email-Contato-gray?logo=minutemailer&logoColor=white)](mailto:hello@jhonathan.me)
 
 ---
 
 Este repositório é licenciado sob a MIT License.
 
 ---
-
