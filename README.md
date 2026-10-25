@@ -1,82 +1,64 @@
 
+# Hey, I'm Jhonathan Domingues 👋
 
-## Hey, I'm Jhonathan Domingues 👋
+Sou Analista de Dados, com foco em Analytics, Business Intelligence e desenvolvimento de soluções orientadas a dados.
 
-Construo **sistemas analíticos e aplicações de machine learning** voltadas a problemas reais de negócio, explorando desde pipelines de dados até sistemas de decisão baseados em modelos e aplicações com LLM.
-
-Este repositório reúne os projetos desenvolvidos no **Small Data Lab**, um laboratório técnico dedicado à experimentação aplicada em dados, arquitetura analítica e IA.
+Este perfil reúne cases desenvolvidos no Small Data Lab, explorando estruturação de dados, investigação analítica, visualização de informações e automação de análises. Os projetos conectam técnicas de dados a problemas de negócio, com entregas que vão da exploração de padrões à construção de dashboards e fluxos analíticos reproduzíveis.
 
 ---
 
 ## Projetos em Destaque
 
-### [FraudWatch](https://github.com/smalldatalabbr/fraudwatch)
-**Risk scoring e políticas de decisão para operações antifraude.**
+### Data Explorer | Da estruturação dos dados à descoberta de padrões de negócio
 
-![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ml-scikit--learn-orange?logo=scikitlearn&logoColor=white)
-![Model](https://img.shields.io/badge/model-LightGBM-black)
-![Explainability](https://img.shields.io/badge/explainability-SHAP-teal)
+Case de Analytics desenvolvido com dados públicos de e-commerce da Olist para investigar o desempenho operacional, a logística e a experiência dos clientes. O objetivo é transformar dados transacionais em análises que permitam identificar padrões, comparar resultados e explorar possíveis oportunidades de melhoria.
 
-Prova de conceito que demonstra como modelos de machine learning podem gerar **scores de risco interpretáveis** e alimentar um processo estruturado de decisão operacional (aprovar, revisar ou bloquear transações).
+A solução combina ingestão e transformação de dados com Python e SQL, modelagem dimensional em um Data Warehouse e quatro investigações analíticas. Um dashboard interativo em Power BI reúne os resultados em três perspectivas — operação, logística e experiência do cliente — e inclui um simulador de cenários hipotéticos para explorar a relação entre prazos de entrega e avaliações dos clientes.
 
-### [LakeFlow](https://github.com/smalldatalabbr/lakeflow)
-**Pipeline analítico em arquitetura Lakehouse para ingestão e organização de dados externos.**
+[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/data-explorer)
+[![Dashboard](https://img.shields.io/badge/↗-Ver_dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNzdlZTM1ZjktMDdkYS00OGZmLWJiMjYtNmZhYjk3NDllYmE3IiwidCI6ImU0MTA4ZjAxLTI2YzktNGRlMi05YWIyLTcwODgzZDA3ZTg0NCJ9)
 
-![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
-![Engine](https://img.shields.io/badge/engine-PySpark-orange?logo=apachespark&logoColor=white)
-![Orchestration](https://img.shields.io/badge/orchestration-Airflow-darkgreen)
-![Container](https://img.shields.io/badge/container-Docker-blue)
+---
 
-Pipeline analítico desenvolvido em Python e PySpark para ingestão recorrente e transformação de dados externos, organizados em camadas **Bronze, Silver e Gold**.
+### Analytics Flow | Da análise estruturada à geração recorrente de relatórios executivos
 
-O pipeline é orquestrado com Airflow e foi projetado com foco em **rastreabilidade, qualidade e reutilização dos dados**.
+Case de Analytics voltado à automação de análises recorrentes sobre desempenho das entregas e experiência dos clientes. A solução foi desenvolvida para facilitar a comparação de indicadores entre períodos e transformar resultados quantitativos em relatórios executivos mais consistentes e rastreáveis.
 
-### [DocLens](https://github.com/smalldatalabbr/doclens)
-**Sistema RAG com guardrails e auditoria adversarial para controle de comportamento em aplicações com LLM.**
+O fluxo integra consultas SQL, PostgreSQL e automação com n8n para executar análises, consolidar evidências quantitativas e manter o histórico dos resultados. A inteligência artificial generativa utiliza essas evidências para estruturar narrativas executivas, mantendo os resultados das consultas separados da interpretação textual e favorecendo a rastreabilidade das informações apresentadas.
 
-![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Groq-black)
-![Framework](https://img.shields.io/badge/framework-LangChain-orange)
-![RAG](https://img.shields.io/badge/RAG-FAISS-blue)
+[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/analytics-flow)
 
-Assistente baseado em RAG para consulta de documentos, projetado com mecanismos de controle de escopo e rastreabilidade das respostas.
+---
 
-O sistema incorpora **guardrails ativos e testes adversariais** para identificar comportamentos inesperados e mitigar riscos em aplicações baseadas em LLM.
+### CampaignSense | Machine Learning aplicado a CRM e à priorização de campanhas
 
-### [CampaignSense](https://github.com/smalldatalabbr/campaignsense)
-**Priorização de clientes para campanhas com base em propensão de resposta e ROI esperado.**
+Case de Machine Learning desenvolvido com o conjunto público *Customer Personality Analysis*, do Kaggle, para investigar o comportamento dos clientes e explorar como modelos preditivos podem apoiar a priorização de campanhas de marketing.
 
-![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ml-scikit--learn-orange?logo=scikitlearn&logoColor=white)
-![Model](https://img.shields.io/badge/model-LightGBM-black)
-![Stats](https://img.shields.io/badge/stats-SciPy-informational)
+A solução combina análise exploratória, segmentação de clientes com K-Means e comparação de modelos de classificação para estimar a propensão de resposta às campanhas. Os scores preditivos são relacionados a critérios de decisão e premissas de custos e ganhos, permitindo explorar cenários de priorização e estimar o retorno potencial de diferentes estratégias.
 
-Prova de conceito de CRM Analytics que estima a propensão de resposta de clientes e transforma scores analíticos em regras de priorização para campanhas orientadas a ROI.
+[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/campaignsense)
 
-O projeto demonstra como modelos preditivos podem ser integrados a processos de decisão para direcionar campanhas de marketing mais eficientes.
+---
+
+### DocLens | RAG e confiabilidade em aplicações de IA generativa
+
+Case de IA generativa voltado à consulta de documentos por meio de um chatbot que recupera informações relevantes e apresenta respostas com referências às fontes consultadas. O objetivo é explorar mecanismos que contribuam para a rastreabilidade das respostas e o controle do comportamento de aplicações baseadas em modelos de linguagem.
+
+A aplicação implementa um fluxo de Retrieval-Augmented Generation (RAG) com LangChain, FAISS, Sentence Transformers e Streamlit. Também incorpora controles antes e depois da geração, além de testes adversariais e registros de auditoria para examinar comportamentos de risco e tratar respostas fora do escopo definido.
+
+[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/doclens)
 
 ---
 
 ## Small Data Lab
 
-O **Small Data Lab** é um laboratório técnico independente voltado à construção de provas de conceito em dados, analytics e inteligência artificial.
+O **Small Data Lab** é uma iniciativa independente de desenvolvimento de projetos aplicados em Dados e Analytics. Surgiu como uma imersão prática em Ciência de Dados e evoluiu para a exploração de diferentes abordagens analíticas, integrando estruturação de dados, Business Intelligence, automação e aplicações de Machine Learning e IA generativa.
 
-Os projetos exploram diferentes camadas de sistemas analíticos:
-
-- pipelines de dados e organização analítica  
-- modelagem preditiva e sistemas de decisão  
-- aplicações com LLM e IA generativa  
-- integração entre dados, modelos e processos operacionais  
-
-Cada projeto busca simular o rigor técnico de ambientes reais de engenharia analítica, conectando **dados, modelos e decisões** em sistemas aplicados.
+A iniciativa reúne cases que investigam problemas específicos e demonstram como técnicas de dados podem ser aplicadas à análise, à construção de soluções e ao apoio à tomada de decisão.
 
 ---
 
 ## Onde me encontrar
 
-[Portfólio](https://jhonathan.me) | [LinkedIn](https://www.linkedin.com/in/jhonathandomingues) | [Email](mailto:hello@jhonathan.me)
-
----
-
-Este repositório é licenciado sob a MIT License.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_nos_conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathandomingues)
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-0F766E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@jhonathan.me)
