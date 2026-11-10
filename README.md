@@ -30,23 +30,14 @@ O fluxo integra consultas SQL, PostgreSQL e automação com n8n para executar an
 
 ---
 
-### CampaignSense | Machine Learning aplicado a CRM e à priorização de campanhas
+### CampaignScore | Ciência de Dados aplicada a CRM e à priorização de campanhas
 
-Case de Machine Learning desenvolvido com o conjunto público *Customer Personality Analysis*, do Kaggle, para investigar o comportamento dos clientes e explorar como modelos preditivos podem apoiar a priorização de campanhas de marketing.
+Case de Ciência de Dados integrante do projeto **CRM Intelligence**, inspirado em um desafio técnico na área de dados aplicada a CRM. Utiliza o conjunto público [*Customer Personality Analysis*](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis), do Kaggle, para investigar o comportamento dos clientes e explorar como técnicas de Machine Learning podem contribuir para campanhas de marketing mais eficientes.
 
-A solução combina análise exploratória, segmentação de clientes com K-Means e comparação de modelos de classificação para estimar a propensão de resposta às campanhas. Os scores preditivos são relacionados a critérios de decisão e premissas de custos e ganhos, permitindo explorar cenários de priorização e estimar o retorno potencial de diferentes estratégias.
+A solução combina análise exploratória, segmentação de clientes com K-Means e comparação de cinco algoritmos de classificação para estimar a propensão de resposta às campanhas. A partir dos scores preditivos, uma abordagem de avaliação econômica relaciona probabilidades de resposta a custos de contato e receita por conversão, permitindo investigar estratégias de priorização e seu potencial resultado financeiro.
 
-[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/campaignsense)
+[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/campaignscore)
 
----
-
-### DocLens | RAG e confiabilidade em aplicações de IA generativa
-
-Case de IA generativa voltado à consulta de documentos por meio de um chatbot que recupera informações relevantes e apresenta respostas com referências às fontes consultadas. O objetivo é explorar mecanismos que contribuam para a rastreabilidade das respostas e o controle do comportamento de aplicações baseadas em modelos de linguagem.
-
-A aplicação implementa um fluxo de Retrieval-Augmented Generation (RAG) com LangChain, FAISS, Sentence Transformers e Streamlit. Também incorpora controles antes e depois da geração, além de testes adversariais e registros de auditoria para examinar comportamentos de risco e tratar respostas fora do escopo definido.
-
-[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/doclens)
 
 ---
 
