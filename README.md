@@ -11,22 +11,12 @@ Este perfil reúne cases desenvolvidos no Small Data Lab, explorando estruturaç
 
 ### Data Explorer | Da estruturação dos dados à descoberta de padrões de negócio
 
-Case de Analytics desenvolvido com dados públicos de e-commerce da Olist para investigar o desempenho operacional, a logística e a experiência dos clientes. O objetivo é transformar dados transacionais em análises que permitam identificar padrões, comparar resultados e explorar possíveis oportunidades de melhoria.
+Case de Analytics desenvolvido com dados públicos de [*e-commerce da Olist*](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) para investigar o desempenho operacional, a logística e a experiência dos clientes. O objetivo é transformar dados transacionais em análises capazes de identificar padrões, comparar resultados e explorar oportunidades de melhoria.
 
-A solução combina ingestão e transformação de dados com Python e SQL, modelagem dimensional em um Data Warehouse e quatro investigações analíticas. Um dashboard interativo em Power BI reúne os resultados em três perspectivas — operação, logística e experiência do cliente — e inclui um simulador de cenários hipotéticos para explorar a relação entre prazos de entrega e avaliações dos clientes.
+A solução combina ingestão e transformação de dados com Python e SQL, modelagem dimensional em um Data Warehouse e quatro investigações analíticas. Um dashboard interativo em Power BI consolida os resultados em três perspectivas: operação, logística e experiência do cliente. Também inclui um simulador de cenários hipotéticos para explorar a relação entre prazos de entrega e avaliações dos clientes.
 
 [![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/data-explorer)
 [![Dashboard](https://img.shields.io/badge/↗-Ver_dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNzdlZTM1ZjktMDdkYS00OGZmLWJiMjYtNmZhYjk3NDllYmE3IiwidCI6ImU0MTA4ZjAxLTI2YzktNGRlMi05YWIyLTcwODgzZDA3ZTg0NCJ9)
-
----
-
-### Analytics Flow | Da análise estruturada à geração recorrente de relatórios executivos
-
-Case de Analytics voltado à automação de análises recorrentes sobre desempenho das entregas e experiência dos clientes. A solução foi desenvolvida para facilitar a comparação de indicadores entre períodos e transformar resultados quantitativos em relatórios executivos mais consistentes e rastreáveis.
-
-O fluxo integra consultas SQL, PostgreSQL e automação com n8n para executar análises, consolidar evidências quantitativas e manter o histórico dos resultados. A inteligência artificial generativa utiliza essas evidências para estruturar narrativas executivas, mantendo os resultados das consultas separados da interpretação textual e favorecendo a rastreabilidade das informações apresentadas.
-
-[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/analytics-flow)
 
 ---
 
@@ -38,6 +28,16 @@ A solução combina análise exploratória, segmentação de clientes com K-Mean
 
 [![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/campaignscore)
 
+
+---
+
+### Analytics Flow | Da análise estruturada à geração recorrente de relatórios executivos
+
+Case de Analytics voltado à automação de análises recorrentes sobre desempenho das entregas e experiência dos clientes. A solução foi desenvolvida para facilitar a comparação de indicadores entre períodos e transformar resultados quantitativos em relatórios executivos mais consistentes e rastreáveis.
+
+O fluxo integra consultas SQL, PostgreSQL e automação com n8n para executar análises, consolidar evidências quantitativas e manter o histórico dos resultados. A inteligência artificial generativa utiliza essas evidências para estruturar narrativas executivas, mantendo os resultados das consultas separados da interpretação textual e favorecendo a rastreabilidade das informações apresentadas.
+
+[![Repositório](https://img.shields.io/badge/↗-Repositório-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smalldatalabbr/analytics-flow)
 
 ---
 
